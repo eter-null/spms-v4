@@ -35,6 +35,5 @@ Faculty
 + SK Sadia Tasnim Elma
 + Noorjahan Sayeed
 + Sumaya
-+ Bushra Jahangir
 
 
